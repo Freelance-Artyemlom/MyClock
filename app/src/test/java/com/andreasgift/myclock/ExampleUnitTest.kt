@@ -1,4 +1,4 @@
-package com.andreasgift.myclock
+package com.jestaykin.anyclock
 
 import org.junit.Test
 

@@ -11,7 +11,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId "com.andreasgift.myclock"
+        applicationId "com.jestaykin.anyclock"
         minSdkVersion 23
         targetSdkVersion 31
         versionCode 4

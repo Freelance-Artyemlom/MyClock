@@ -6,13 +6,13 @@
 
         <variable
             name="clockdata"
-            type="com.andreasgift.myclock.clock.Clock" />
+            type="com.jestaykin.anyclock.clock.Clock" />
 
         <variable
             name="isAnalog"
             type="Boolean" />
 
-        <import type="com.andreasgift.myclock.BindingAdapter" />
+        <import type="com.jestaykin.anyclock.BindingAdapter" />
     </data>
 
     <LinearLayout

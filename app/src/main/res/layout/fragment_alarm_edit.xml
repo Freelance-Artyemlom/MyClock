@@ -6,9 +6,9 @@
 
         <variable
             name="alarmdata"
-            type="com.andreasgift.myclock.alarm.Alarm" />
+            type="com.jestaykin.anyclock.alarm.Alarm" />
 
-        <import type="com.andreasgift.myclock.BindingAdapter" />
+        <import type="com.jestaykin.anyclock.BindingAdapter" />
     </data>
 
     <LinearLayout
