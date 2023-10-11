@@ -1,0 +1,27 @@
+Privacy policy
+
+General
+
+"AnyClock" is developed by one main developer, with a few people helping from time to time, mostly with translations.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using "AnyClock", you agree that your personal information will be handled as described in this Policy.
+
+The app has no internet access, so it is not sending anything outside the device whatsoever.
+
+Information being collected
+
+"AnyClock" does not collect any personal identifiable information.
+
+The WRITE_EXTERNAL_STORAGE permission is used on Android below 8 for accessing, editing or removing files containing notes created by users.
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: October 10, 2023
+
+Contact
+
+If you have any questions about the Policy, please contact me via jestaykin@gmail.com
